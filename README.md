@@ -22,9 +22,9 @@ requests, beautifulsoup4, os, pandas
 <img width="1587" height="713" alt="image" src="https://github.com/user-attachments/assets/74069e31-261a-4482-adc2-72c347d2bd7c" />
 
 ## Learnings
-Used requests to fetch HTML. 
-Parsed data with BeautifulSoup. 
-Structured dataset using pandas.
+   Used requests to fetch HTML.  
+   Parsed data with BeautifulSoup. 
+   Structured dataset using pandas.
 
 ## Author
 Jay Lodha

@@ -23,7 +23,7 @@ requests, beautifulsoup4, os, pandas
 
 ## Learnings
    Used requests to fetch HTML.  
-   Parsed data with BeautifulSoup. 
+   Parsed data with BeautifulSoup.   
    Structured dataset using pandas.
 
 ## Author
